@@ -23,7 +23,7 @@ class ProductsAdminPage extends StatelessWidget {
                 icon: Icon(Icons.create),
               ),
               Tab(
-                text: 'My product',
+                text: 'My products',
                 icon: Icon(Icons.list),
               )
             ],
